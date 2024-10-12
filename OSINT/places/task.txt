@@ -1,0 +1,3 @@
+Как связаны эти два места?
+P97X+RR   Q5FV+MW
+Формат флага: donguCTF{Word_word}
